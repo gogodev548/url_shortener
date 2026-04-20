@@ -29,7 +29,7 @@ go version
 ### Шаг 2. Перейди в папку проекта
 
 ```bash
-cd c:\Users\ubadm\golangprojects\url_shortener
+cd твой_путь\url_shortener
 ```
 
 ### Шаг 3. Запусти сервер
