@@ -30,7 +30,8 @@ go version
 
 ```bash
 cd path/to/url_shortener
-```
+=======
+
 
 ### Шаг 3. Запусти сервер
 
