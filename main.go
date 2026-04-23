@@ -1,3 +1,5 @@
+// comment
+
 package main
 
 import (
@@ -105,3 +107,4 @@ func main() {
 		log.Fatalf("server failed: %v", err)
 	}
 }
+qwe
